@@ -1,7 +1,7 @@
 # Duškura Identity Persistence: Structural Improvement Report
 
 ## 1. Executive Summary
-The current **Duškura MVP** is a robust, well-layered implementation of AI identity persistence. However, its monolithic structure and reliance on flat-file JSON storage present significant risks in **adversarial conditions** and limit its efficiency on **mobile/Android** platforms. This report proposes a transition from a "Substrate" model to a **"Metabolic Resilience"** model, focusing on atomic persistence, modularity, and adversarial defense.
+The ~~**Duškura MVP**~~ is a robust, well-layered implementation of AI identity persistence. However, its monolithic structure and reliance on flat-file JSON storage present significant risks in **adversarial conditions** and limit its efficiency on **mobile/Android** platforms. This report proposes a transition from a "Substrate" model to a **"Metabolic Resilience"** model, focusing on atomic persistence, modularity, and adversarial defense.
 
 ---
 
